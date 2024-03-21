@@ -72,7 +72,7 @@
 
 ---
 
-<h2 align="center"style="font-family: 'Satisfy', cursive;font-size:50px">Tools:</h2>
+<h2 align="center">Tools:</h2>
 <div align="center">
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
