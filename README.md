@@ -15,7 +15,7 @@
     <h3 align='center'><i>Social Media Handles</i></h3>
     <p align='center'>
         <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409943.png" width="50"></a>
-        <a href="https://twitter.com/Murad_143"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a>
+        <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a>
         <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"  width="50"></a>
         <a href="https://www.linkedin.com/in/md-murad-hosen-1221022a0/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="50"></a>
         <a href="mailto:murad25.cse@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" weight="40" height="45" ></a>
