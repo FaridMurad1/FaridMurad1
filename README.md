@@ -6,7 +6,7 @@
   <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
   <td width="50%">
     <h3 align='center'><i>About Me</i></h3>
-    <ul>
+    <ul style="font-family: 'Satisfy', cursive;">
       <li>Pursuing BSC in Computer Science & Engineering</li>
       <li> I’m currently learning Full Stack Web Development</li>
       <li>Improving Algorithm & Data Structures</li>
