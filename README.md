@@ -5,14 +5,14 @@
 <tr>
   <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
   <td width="50%">
-    <h3 align='center'style="font-family: 'Satisfy', cursive;font-size:25px"><i>About Me</i></h3>
+    <h3 align='center'><i>About Me</i></h3>
     <ul>
       <li>Pursuing BSC in Computer Science & Engineering</li>
       <li> I’m currently learning Full Stack Web Development</li>
       <li>Improving Algorithm & Data Structures</li>
       <li>Interested in App Development & Machine learning</li>
     </ul><br><br>
-    <h3 align='center'style="font-family: 'Satisfy', cursive;font-size:25px"><i>Social Media Handles</i></h3>
+    <h3 align='center'><i>Social Media Handles</i></h3>
     <p align='center'>
         <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409943.png" width="50"></a>
         <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a>
@@ -28,7 +28,7 @@
 </p>
 ---
 
-<h2 align='center'style="font-family: 'Satisfy', cursive;">📊Stats:</h2>
+<h2 align='center'>📊Stats:</h2>
 <br>
 <div align=center>
 <img width=350 src="https://github-readme-stats.vercel.app/api?username=FaridMurad1&show_icons=true&theme=dracula&border_radius=10" alt="readme stats" />
@@ -40,7 +40,7 @@
 <br> <br> <br> <br>
 ----
 
-<h2 align="center"style="font-family: 'Satisfy', cursive;font-size:25px">Languages:</h2>
+<h2 align="center">Languages:</h2>
 <div align="center">
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="center"style="font-family: 'Satisfy', cursive;font-size:25px">Frameworks:</h2>
+<h2 align="center">Frameworks:</h2>
 <div align="center">
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -72,7 +72,7 @@
 
 ---
 
-<h2 align="center"style="font-family: 'Satisfy', cursive;font-size:25px">Tools:</h2>
+<h2 align="center"style="font-family: 'Satisfy', cursive;font-size:50px">Tools:</h2>
 <div align="center">
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -84,7 +84,7 @@
 ---
 
 <br><br><br><br>
-<h2 align="center"style="font-family: 'Satisfy', cursive;font-size:25px">Other Social Media:</h2>
+<h2 align="center">Other Social Media:</h2>
 <div align="center">
 <a href="https://codeforces.com/profile/Murad134"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
 <a href="https://leetcode.com/Murad134/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
