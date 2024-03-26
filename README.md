@@ -94,7 +94,7 @@
 </div>
 
 <p align="center">
-<a href="https://vyvy-vi.github.io/portfolio"><img target="_blank" src="https://img.shields.io/badge/-I_love_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> 
+<a href="#"><img target="_blank" src="https://img.shields.io/badge/-I_love_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> 
 </p><br>
 
 <div align="center">
